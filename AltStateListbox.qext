@@ -1,16 +1,15 @@
 {
 	"name": "Alt State Listbox",
-	"description": "",
+	"description": "Alternate states aware listbox",
 	"icon": "list",
 	"type": "visualization",
-	"version": "1.0.0",
+	"version": "1.0",
 	"preview": "preview.png",
 	"author": "Svetlin Simeonov",
-	"homepage": "",
-	"keywords": "qlik-sense, visualization",
-	"license": "",
-	"repository": "",
+	"keywords": "qlik-sense, visualization, alternate, state",
+	"license": "MIT",
+	"repository": "https://github.com/simeonsv/sense-alternate-states-listbox.git",
 	"dependencies": {
-		"qlik-sense": ">=1.0.x"
+		"qlik-sense": ">=1.1.x"
 	}
 }
